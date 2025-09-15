@@ -1,0 +1,14 @@
+# po '#' komentarze
+# Odbiorcy po , 
+to=pawel.kusznierczuk@gdansk.gda.pl,pkusznierczuk99@gmail.com
+
+# DW(Cc) po ,
+#cc=pawel.kusznierczuk@gdansk.gda.pl,pkusznierczuk99@gmail.com
+
+# UDW(Bcc) po ,
+#bcc=pawel.kusznierczuk@gdansk.gda.pl,pkusznierczuk99@gmail.com
+
+# Temat maila
+subject=Zmiany w wersjach EZDRP
+
+
